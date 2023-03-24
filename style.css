@@ -1,4 +1,80 @@
-header{
-    background-color: #A1E7F6;
-    color: black;
+*{
+    margin: 0;
+    padding:  0;
 }
+
+
+
+header{
+    background-color:#A1E7F6;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+  }
+
+
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 10px 150px;
+        font-size: 45px;
+   
+    }
+    .GlobalLanguages{
+        background-image: linear-gradient(#FFFFF0,#FFFFF0);
+        color:black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+    
+    .GlobalLanguages-div-conteudo{
+        width: 73%;
+        font-size: 20px;
+    }
+    .idi-titulo{
+        text-align: center;
+    }
+    .GlobalLanguages-titulo{
+        padding: 24px 0;
+    }
+    .professsoras{
+        padding: 24px 0;
+    }
+    
+    
+    .professoras-imagem{
+        width: 120px;
+    }
+    
+    .professoras-icone{
+        width: 24px;
+        padding: 4px 8px;
+    }
+    
+    .professoras-div{
+        text-align: center;
+        padding: 16px 0;
+    }
+    
+    .idi-titulo{
+        text-align: center;
+        padding: 50px 0;
+    }
+    
+    .idi-todos{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
+    
+    .rodape{
+        background-color: #A1E7F6;
+        text-align: center;
+        font-size: 62px;
+        padding: 10px;
+    }
+    
