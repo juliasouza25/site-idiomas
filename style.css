@@ -21,7 +21,7 @@ header{
         font-size: 45px;
    
     }
-    .GlobalLanguages{
+    .Global-Languages{
         background-image: linear-gradient(#FFFFF0,#FFFFF0);
         color:black;
         display: flex;
@@ -30,14 +30,14 @@ header{
         padding: 24px 0;
     }
     
-    .GlobalLanguages-div-conteudo{
+    .Global-Languages-div-conteudo{
         width: 73%;
         font-size: 20px;
     }
     .idi-titulo{
         text-align: center;
     }
-    .GlobalLanguages-titulo{
+    .Global-Languages-titulo{
         padding: 24px 0;
     }
     .professsoras{
@@ -59,7 +59,7 @@ header{
         padding: 16px 0;
     }
     
-    .idi-titulo{
+    .professoras-titulo{
         text-align: center;
         padding: 50px 0;
     }
@@ -74,7 +74,7 @@ header{
     .rodape{
         background-color: #A1E7F6;
         text-align: center;
-        font-size: 62px;
+        font-size: 45px;
         padding: 10px;
     }
     
