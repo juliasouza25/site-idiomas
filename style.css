@@ -65,10 +65,8 @@ header{
     }
     
     .idi-todos{
-        display: flex;
-        justify-content: center;
-        text-align: center;
-        grid-template-rows: 20% 20% 20% 20% 20%;
+        display:grid;
+        grid-template-columns:repeat(3, 3fr);
     }
     
     .rodape{
